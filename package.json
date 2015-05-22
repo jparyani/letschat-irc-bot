@@ -1,0 +1,15 @@
+{
+  "name": "letschat-irc-bot",
+  "description": "A bot that mirrors conversations between a lets-chat instance and irc",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jparyani/letschat-irc-bot.git"
+  },
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "irc": "^0.3.12"
+  }
+}

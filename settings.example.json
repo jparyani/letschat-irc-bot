@@ -1,0 +1,10 @@
+{
+  "server": "chat.freenode.net",
+  "nick": "letschat_bridge",
+  "channel": "#sandstorm",
+  "letschat": {
+    "url": " https://alpha-api.sandstorm.io",
+    "token": "MY_API_KEY",
+    "room": "sandstorm"
+  }
+}
